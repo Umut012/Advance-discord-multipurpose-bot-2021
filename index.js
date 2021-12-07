@@ -19,10 +19,10 @@ const prefix = config.prefix
 module.exports = prefix;
 const activities = [
   `${prefix}help`,
-  `${client.users.cache.size} Users`,
-  `${client.guilds.cache.size} Servers`,
-    `${client.channels.cache.size} Channels`,
-    `Made By Tech Boy Gaming`
+  `${client.users.cache.size} Üye`,
+  `${client.guilds.cache.size} Server`,
+    `${client.channels.cache.size} Kanal`,
+    `Made By UmutTuncel`
 ];
 
 client.giveawaysManager.on("giveawayReactionAdded", (giveaway, member, reaction) => {
