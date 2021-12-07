@@ -1,6 +1,6 @@
 {
-    "prefix": "your_prefix",
-    "token": "your_bot_token",
+    "prefix": "n!",
+    "token": "OTE2NzQyNjI5NzAwNTYyOTc0.YaulGw.28t_9_KvluBxldCFtu4fCSLGw4A",
     "mongoose": "mongo_db_url",
     "emoji": {
         "play": "▶️",
